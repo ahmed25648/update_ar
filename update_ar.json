@@ -1,10 +1,6 @@
 {
-  "records": [
-    {
-      "version": "DELTA YOWA v5.2.2F",
-      "code": 90,
-      "url": "https://t.me/OppoApplication1",
-      "changelog": " - Minima UI - Instagram View for Status or Favorite Contact - Option for Files Access Manager - Experimental Grid View - Fix Cannot Open Camera"
-    }
-  ]
+ "version":"1.2 ",
+ "title":" new update",
+ "description":" There is a new update",
+ "download":" https://t.me/OppoApplication1"
 }
